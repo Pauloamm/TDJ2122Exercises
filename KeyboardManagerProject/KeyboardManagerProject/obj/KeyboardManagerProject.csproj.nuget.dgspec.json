@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruna\\source\\repos\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj": {}
+    "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruna\\source\\repos\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj": {
+    "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruna\\source\\repos\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj",
+        "projectUniqueName": "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj",
         "projectName": "KeyboardManagerProject",
-        "projectPath": "C:\\Users\\Bruna\\source\\repos\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj",
+        "projectPath": "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\KeyboardManagerProject\\KeyboardManagerProject\\KeyboardManagerProject.csproj",
         "packagesPath": "C:\\Users\\Bruna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruna\\source\\repos\\KeyboardManagerProject\\KeyboardManagerProject\\obj\\",
+        "outputPath": "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\KeyboardManagerProject\\KeyboardManagerProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
