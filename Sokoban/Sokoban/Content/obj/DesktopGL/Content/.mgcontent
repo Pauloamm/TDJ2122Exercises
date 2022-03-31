@@ -4,11 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Bruna/source/repos/Sokoban/Sokoban/Content/Character4.png</File>
-    <File>C:/Users/Bruna/source/repos/Sokoban/Sokoban/Content/Crate_Beige.png</File>
-    <File>C:/Users/Bruna/source/repos/Sokoban/Sokoban/Content/EndPoint_Black.png</File>
-    <File>C:/Users/Bruna/source/repos/Sokoban/Sokoban/Content/GroundGravel_Grass.png</File>
-    <File>C:/Users/Bruna/source/repos/Sokoban/Sokoban/Content/Wall_Black.png</File>
+    <File>C:/Users/Bruna/Documents/GitHub/TDJ2122Exercises/Sokoban/Sokoban/Content/Character4.png</File>
+    <File>C:/Users/Bruna/Documents/GitHub/TDJ2122Exercises/Sokoban/Sokoban/Content/Crate_Beige.png</File>
+    <File>C:/Users/Bruna/Documents/GitHub/TDJ2122Exercises/Sokoban/Sokoban/Content/EndPoint_Black.png</File>
+    <File>C:/Users/Bruna/Documents/GitHub/TDJ2122Exercises/Sokoban/Sokoban/Content/GroundGravel_Grass.png</File>
+    <File>C:/Users/Bruna/Documents/GitHub/TDJ2122Exercises/Sokoban/Sokoban/Content/Wall_Black.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruna\\source\\repos\\Sokoban\\Sokoban\\Sokoban.csproj": {}
+    "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\Sokoban\\Sokoban\\Sokoban.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruna\\source\\repos\\Sokoban\\Sokoban\\Sokoban.csproj": {
+    "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\Sokoban\\Sokoban\\Sokoban.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruna\\source\\repos\\Sokoban\\Sokoban\\Sokoban.csproj",
+        "projectUniqueName": "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\Sokoban\\Sokoban\\Sokoban.csproj",
         "projectName": "Sokoban",
-        "projectPath": "C:\\Users\\Bruna\\source\\repos\\Sokoban\\Sokoban\\Sokoban.csproj",
+        "projectPath": "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\Sokoban\\Sokoban\\Sokoban.csproj",
         "packagesPath": "C:\\Users\\Bruna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruna\\source\\repos\\Sokoban\\Sokoban\\obj\\",
+        "outputPath": "C:\\Users\\Bruna\\Documents\\GitHub\\TDJ2122Exercises\\Sokoban\\Sokoban\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
